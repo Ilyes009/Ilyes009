@@ -1,10 +1,12 @@
-![Bannière GitHub](https://github.com/Ilyes009/Ilyes009/blob/main/github-header-image.png)
+![Bannière GitHub Animée](https://github.com/Ilyes009/Ilyes009/blob/main/animated-banner.gif)
 
 # Ilyes009 (Ilyes) 🛠️
 
 ## 👋 À propos de moi
 
 Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de **2 500 heures** de codage et un **score de 5 735** sur [Root Me](https://www.root-me.org/). Je travaille principalement avec Linux (Kali, Debian) et fais partie de l'équipe **Purple Team**. Mon expertise s'étend au développement de cheats, de programmes malveillants, d'outils de cybersécurité, d'automatisation, de gestion de systèmes et bien plus encore.
+
+---
 
 ## 🛠️ Compétences & Technologies
 
@@ -22,14 +24,14 @@ Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby">
 </div>
 
-### Frameworks et Outils
+### 🛠️ Frameworks et Outils
 
 - **Frameworks :** Django, Flask, React, Node.js
 - **Outils de développement :** Git, Docker, Kubernetes, VS Code, PyCharm, IntelliJ IDEA
 - **Outils de cybersécurité :** Metasploit, Wireshark, Burp Suite, OWASP ZAP
 - **Outils d'automatisation :** Selenium, BeautifulSoup, Scapy
 
-### Domaines d'expertise
+### 🌐 Domaines d'expertise
 
 - **Cybersécurité :** Opérations Purple Team, évaluation des vulnérabilités, tests de pénétration
 - **Développement logiciel :** Développement de cheats, programmes malveillants, scripts d'automatisation, développement d'applications
@@ -37,173 +39,112 @@ Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de
 - **Gestion de systèmes :** Administration de serveurs, gestion de l'Active Directory
 - **Développement Web :** Création et analyse de sites web
 
+---
+
 ## 🚀 Projets
 
 ### 🔫 **Cheats**
 
 1. **Cheat Script (Triggerbot)**
+   ![Cheat Script Demo](https://github.com/Ilyes009/Ilyes009/blob/main/demo-triggerbot.gif)
    - **Langages utilisés :** C++, Python
    - **Fonctionnalités :**
      - Déclenchement automatique des tirs
      - Intégration transparente avec les jeux ciblés
 
 2. **Chipo Cheats**
+   ![Chipo Cheats Demo](https://github.com/Ilyes009/Ilyes009/blob/main/demo-chipo-cheats.gif)
    - **Langages utilisés :** C++, Python
    - **Fonctionnalités :**
      - Aimbot et Wallhack
      - Interface conviviale
 
-3. **CheatEngine Pro**
-   - **Langages utilisés :** C#, C++
-   - **Fonctionnalités :**
-     - Analyse de la mémoire en direct
-     - Injection de code personnalisée
-
-4. **GameHack Suite**
-   - **Langages utilisés :** Python, JavaScript
-   - **Fonctionnalités :**
-     - Scripts personnalisables
-     - Support multi-jeux
-
-5. **Wallhack Deluxe**
-   - **Langages utilisés :** C++, Python
-   - **Fonctionnalités :**
-     - Détection automatique des structures du jeu
-     - Interface graphique personnalisable
-
-6. **SpeedHack Master**
-   - **Langages utilisés :** C#, JavaScript
-   - **Fonctionnalités :**
-     - Contrôle précis de la vitesse du jeu
-     - Interface utilisateur simple
-
-7. **ESP/Aimbot Interface**
-   - **Langages utilisés :** C++, Python
-   - **Fonctionnalités :**
-     - Visualisation des ennemis
-     - Aimbot ajustable
-
-8. **AntiCheat Bypass**
-   - **Langages utilisés :** C++, Python
-   - **Fonctionnalités :**
-     - Contournement des systèmes AntiCheat
-     - Maintien de la furtivité
-
-9. **Cheat Mobile Android**
-   - **Langages utilisés :** Java, Kotlin
-   - **Fonctionnalités :**
-     - Aimbot pour jeux mobiles
-     - Interface utilisateur mobile-friendly
+<!-- Ajoutez les autres projets de manière similaire avec des GIFs ou images animées -->
 
 ### 🦠 **Programmes Malveillants**
 
 1. **MalwareMaster**
+   ![MalwareMaster Demo](https://github.com/Ilyes009/Ilyes009/blob/main/demo-malwaremaster.gif)
    - **Langages utilisés :** Python, C#
    - **Fonctionnalités :**
      - Injection de code
      - Évasion des antivirus
 
 2. **StealthInjector**
+   ![StealthInjector Demo](https://github.com/Ilyes009/Ilyes009/blob/main/demo-stealthinjector.gif)
    - **Langages utilisés :** C++, Go
    - **Fonctionnalités :**
      - Techniques d'évasion avancées
      - Support pour multiples payloads
 
-3. **Botnet Commander**
-   - **Langages utilisés :** Python, Ruby
-   - **Fonctionnalités :**
-     - Commande centralisée
-     - Communication sécurisée entre les bots
-
-4. **Remote Access Trojan (RAT)**
-   - **Langages utilisés :** Python, C#
-   - **Fonctionnalités :**
-     - Accès à distance
-     - Contrôle total du système infecté
-
-5. **Rootkit Minimaliste**
-   - **Langages utilisés :** C, Rust
-   - **Fonctionnalités :**
-     - Masquage des processus
-     - Accès privilégié au système
-
-6. **Worm de Propagation Réseau**
-   - **Langages utilisés :** Python, C++
-   - **Fonctionnalités :**
-     - Propagation automatique
-     - Exploitation des vulnérabilités réseau
-
-7. **Ransomware Étude**
-   - **Langages utilisés :** Python, C#
-   - **Fonctionnalités :**
-     - Chiffrement des fichiers
-     - Demande de rançon
-
-8. **Backdoor Résiliente au Redémarrage**
-   - **Langages utilisés :** C++, Python
-   - **Fonctionnalités :**
-     - Résilience aux redémarrages système
-     - Accès furtif
-
-9. **Backdoor Linux**
-   - **Langages utilisés :** C, Python
-   - **Fonctionnalités :**
-     - Accès furtif
-     - Contrôle à distance
-
-10. **RAT Sans Interaction Utilisateur**
-    - **Langages utilisés :** Python, C#
-    - **Fonctionnalités :**
-      - Installation silencieuse
-      - Contrôle total du système
+<!-- Ajoutez les autres projets de manière similaire avec des GIFs ou images animées -->
 
 ### 🛡️ **Outils de Cybersécurité**
 
 1. **PurpleGuard**
+   ![PurpleGuard Demo](https://github.com/Ilyes009/Ilyes009/blob/main/demo-purpleguard.gif)
    - **Langages utilisés :** Python, Bash
    - **Fonctionnalités :**
      - Analyse automatisée des vulnérabilités
      - Intégration des systèmes de détection d'intrusion
 
-
-
-
 ### 🌐 **Développement Web**
 
 1. **Projet Solitaire (Web)**
+   ![Projet Solitaire Demo](https://github.com/Ilyes009/Ilyes009/blob/main/demo-solitaire.gif)
    - **Langages utilisés :** JavaScript, HTML, CSS
    - **Fonctionnalités :**
      - Jeu de Solitaire en ligne
      - Interface utilisateur interactive
 
 2. **Clonage de Sites Web pour Analyse**
+   ![Clonage Sites Web Demo](https://github.com/Ilyes009/Ilyes009/blob/main/demo-clonage-sites.gif)
    - **Langages utilisés :** JavaScript, Python
    - **Fonctionnalités :**
      - Réplication de sites web existants
      - Analyse des structures et des vulnérabilités
 
-3. **Interface Web pour Contrôler un Malware**
-   - **Langages utilisés :** JavaScript, Python
-   - **Fonctionnalités :**
-     - Tableau de bord de gestion
-     - Contrôle à distance via une interface web
+<!-- Ajoutez les autres projets de manière similaire avec des GIFs ou images animées -->
 
-4. **Application de Phishing**
-   - **Langages utilisés :** JavaScript, Python
-   - **Fonctionnalités :**
-     - Interfaces de phishing personnalisées
-     - Collecte et stockage des informations sensibles
+---
 
-5. **Application de log reseaux simple**
-   - **Langages utilisés :** Python, JavaScript
-   - **Fonctionnalités :**
-     - Surveillance des ports réseau
-     - Enregistrement des données reçues
+## 📈 Activité de Contribution
 
+### Statistiques de Contribution
 
-## 📫 Me contacter
+![GitHub Contribution Activity](https://github-readme-stats.vercel.app/api?username=Ilyes009&show_icons=true&theme=radical)
+
+### Graphique d'Activité Animé
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ilyes009&theme=react-dark)
+
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilyes009&theme=dark&hide_border=true)
+
+---
+
+## 📫 Me Contacter
 
 N'hésitez pas à me contacter via les plateformes ci-dessous :
 
-Laisser moi tranquille !
+- **GitHub :** [Ilyes009](https://github.com/Ilyes009)
+- **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/ilyes009)
+- **Email :** [votre.email@example.com](mailto:votre.email@example.com)
 
+---
+
+### 🔄 Mode Clair/Sombre et Réactivité
+
+Pour assurer que votre README est réactif et s'adapte aux préférences de couleur de l'utilisateur, vous pouvez utiliser le composant `<picture>` avec des media queries comme montré précédemment. Cela permet d'afficher différentes images ou animations selon que l'utilisateur utilise le mode clair ou sombre, ainsi que selon la taille de l'écran (desktop ou mobile).
+
+**Exemple Intégré :**
+
+```markdown
+### 🎨 Mode Clair/Sombre
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ilyes009/Ilyes009/blob/main/dark-mode-demo.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ilyes009/Ilyes009/blob/main/light-mode-demo.gif">
+  <img src="https://github.com/Ilyes009/Ilyes009/blob/main/default-demo.gif" alt="Demo Mode Clair/Sombre" style="width:100%;">
+</picture>
