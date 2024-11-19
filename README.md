@@ -1,81 +1,255 @@
-![Bannière GitHub]([https://github.com/Ilyes009/github-header-image.png](https://github.com/Ilyes009/Ilyes009/blob/main/github-header-image.png))
+![Bannière GitHub](https://github.com/Ilyes009/blob/main/github-header-image.png)
 
 # Ilyes009 (Ilyes) 🛠️
 
 ## 👋 À propos de moi
 
-Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de **2 500 heures** de codage et un **score de 5 735** sur [Root Me](https://www.root-me.org/). Je travaille principalement avec Linux (Kali, Debian) et fais partie de l'équipe **Purple Team**. Mon expertise s'étend au développement de cheats, de programmes malveillants et bien plus encore.
+Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de **2 500 heures** de codage et un **score de 5 735** sur [Root Me](https://www.root-me.org/). Je travaille principalement avec Linux (Kali, Debian) et fais partie de l'équipe **Purple Team**. Mon expertise s'étend au développement de cheats, de programmes malveillants, d'outils de cybersécurité, d'automatisation, de gestion de systèmes et bien plus encore.
 
 ## 🛠️ Compétences & Technologies
 
 ### Langages de programmation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
-### Outils de développement & Plateformes
+### Frameworks et Outils
 
-- **Systèmes d'exploitation :** Linux (Kali, Debian), Windows
-- **Contrôle de version :** Git, GitHub
-- **IDE :** Visual Studio Code, PyCharm, IntelliJ IDEA
-- **Outils de cybersécurité :** Metasploit, Wireshark, Burp Suite
+- **Frameworks :** Django, Flask, React, Node.js
+- **Outils de développement :** Git, Docker, Kubernetes, VS Code, PyCharm, IntelliJ IDEA
+- **Outils de cybersécurité :** Metasploit, Wireshark, Burp Suite, OWASP ZAP
+- **Outils d'automatisation :** Selenium, BeautifulSoup, Scapy
 
 ### Domaines d'expertise
 
 - **Cybersécurité :** Opérations Purple Team, évaluation des vulnérabilités, tests de pénétration
 - **Développement logiciel :** Développement de cheats, programmes malveillants, scripts d'automatisation, développement d'applications
 - **Réseautage :** Sécurité réseau, analyse de protocoles
+- **Gestion de systèmes :** Administration de serveurs, gestion de l'Active Directory
+- **Développement Web :** Création et analyse de sites web
 
 ## 🚀 Projets
 
-### 1. **Chipo Cheats**
-Une suite de cheats développés pour divers jeux, améliorant l'expérience utilisateur grâce à des modifications personnalisées.
+### 🔫 **Cheats**
 
-- **Langages utilisés :** C++, Python
-- **Fonctionnalités :**
-  - Aimbot et Wallhack
-  - Interface conviviale
-  - Mises à jour et support réguliers
+1. **Cheat Script (Triggerbot)**
+   - **Langages utilisés :** C++, Python
+   - **Fonctionnalités :**
+     - Déclenchement automatique des tirs
+     - Intégration transparente avec les jeux ciblés
 
-### 2. **MalwareMaster**
-Un programme malveillant conçu pour tester la résilience des systèmes face aux menaces actuelles.
+2. **Chipo Cheats**
+   - **Langages utilisés :** C++, Python
+   - **Fonctionnalités :**
+     - Aimbot et Wallhack
+     - Interface conviviale
 
-- **Langages utilisés :** Python, C#
-- **Fonctionnalités :**
-  - Injection de code
-  - Évasion des antivirus
-  - Analyse des vulnérabilités système
+3. **CheatEngine Pro**
+   - **Langages utilisés :** C#, C++
+   - **Fonctionnalités :**
+     - Analyse de la mémoire en direct
+     - Injection de code personnalisée
 
-### 3. **PurpleGuard**
-Un outil de cybersécurité destiné aux Purple Teams pour faciliter les opérations offensives et défensives.
+4. **GameHack Suite**
+   - **Langages utilisés :** Python, JavaScript
+   - **Fonctionnalités :**
+     - Scripts personnalisables
+     - Support multi-jeux
 
-- **Langages utilisés :** Python, Bash
-- **Fonctionnalités :**
-  - Analyse automatisée des vulnérabilités
-  - Intégration des systèmes de détection d'intrusion
-  - Outils de reporting complets
+5. **Wallhack Deluxe**
+   - **Langages utilisés :** C++, Python
+   - **Fonctionnalités :**
+     - Détection automatique des structures du jeu
+     - Interface graphique personnalisable
 
-### 4. **RootMe Helper**
-Un outil d'automatisation pour aider à résoudre les défis sur Root Me, améliorant l'efficacité et l'apprentissage.
+6. **SpeedHack Master**
+   - **Langages utilisés :** C#, JavaScript
+   - **Fonctionnalités :**
+     - Contrôle précis de la vitesse du jeu
+     - Interface utilisateur simple
 
-- **Langages utilisés :** Python, JavaScript
-- **Fonctionnalités :**
-  - Exécution automatisée des scripts
-  - Suivi et gestion des défis
-  - Analyses de performance
+7. **ESP/Aimbot Interface**
+   - **Langages utilisés :** C++, Python
+   - **Fonctionnalités :**
+     - Visualisation des ennemis
+     - Aimbot ajustable
 
-### 5. **BOOOH (Build Offensive and Defensive Operations Helper)**
-Un outil polyvalent visant à assister les professionnels de la cybersécurité dans les tâches offensives et défensives.
+8. **AntiCheat Bypass**
+   - **Langages utilisés :** C++, Python
+   - **Fonctionnalités :**
+     - Contournement des systèmes AntiCheat
+     - Maintien de la furtivité
 
-- **Langages utilisés :** C#, Ruby
-- **Fonctionnalités :**
-  - Surveillance en temps réel
-  - Détection automatisée des menaces
-  - Modules intégrés de tests de pénétration
+9. **Cheat Mobile Android**
+   - **Langages utilisés :** Java, Kotlin
+   - **Fonctionnalités :**
+     - Aimbot pour jeux mobiles
+     - Interface utilisateur mobile-friendly
+
+### 🦠 **Programmes Malveillants**
+
+1. **MalwareMaster**
+   - **Langages utilisés :** Python, C#
+   - **Fonctionnalités :**
+     - Injection de code
+     - Évasion des antivirus
+
+2. **StealthInjector**
+   - **Langages utilisés :** C++, Go
+   - **Fonctionnalités :**
+     - Techniques d'évasion avancées
+     - Support pour multiples payloads
+
+3. **Botnet Commander**
+   - **Langages utilisés :** Python, Ruby
+   - **Fonctionnalités :**
+     - Commande centralisée
+     - Communication sécurisée entre les bots
+
+4. **Remote Access Trojan (RAT)**
+   - **Langages utilisés :** Python, C#
+   - **Fonctionnalités :**
+     - Accès à distance
+     - Contrôle total du système infecté
+
+5. **Rootkit Minimaliste**
+   - **Langages utilisés :** C, Rust
+   - **Fonctionnalités :**
+     - Masquage des processus
+     - Accès privilégié au système
+
+6. **Worm de Propagation Réseau**
+   - **Langages utilisés :** Python, C++
+   - **Fonctionnalités :**
+     - Propagation automatique
+     - Exploitation des vulnérabilités réseau
+
+7. **Ransomware Étude**
+   - **Langages utilisés :** Python, C#
+   - **Fonctionnalités :**
+     - Chiffrement des fichiers
+     - Demande de rançon
+
+8. **Backdoor Résiliente au Redémarrage**
+   - **Langages utilisés :** C++, Python
+   - **Fonctionnalités :**
+     - Résilience aux redémarrages système
+     - Accès furtif
+
+9. **Backdoor Linux**
+   - **Langages utilisés :** C, Python
+   - **Fonctionnalités :**
+     - Accès furtif
+     - Contrôle à distance
+
+10. **RAT Sans Interaction Utilisateur**
+    - **Langages utilisés :** Python, C#
+    - **Fonctionnalités :**
+      - Installation silencieuse
+      - Contrôle total du système
+
+### 🛡️ **Outils de Cybersécurité**
+
+1. **PurpleGuard**
+   - **Langages utilisés :** Python, Bash
+   - **Fonctionnalités :**
+     - Analyse automatisée des vulnérabilités
+     - Intégration des systèmes de détection d'intrusion
+
+2. **VulnScanner Pro**
+   - **Langages utilisés :** Go, Python
+   - **Fonctionnalités :**
+     - Détection multi-couches
+     - Rapports détaillés
+
+3. **Intrusion Detector**
+   - **Langages utilisés :** C++, Python
+   - **Fonctionnalités :**
+     - Détection comportementale
+     - Alertes en temps réel
+
+4. **Outil d'Analyse Forensique**
+   - **Langages utilisés :** Python, C++
+   - **Fonctionnalités :**
+     - Analyse des traces système
+     - Récupération des données supprimées
+
+5. **Manipulation de DNS**
+   - **Langages utilisés :** Python, Go
+   - **Fonctionnalités :**
+     - Modification des enregistrements DNS
+     - Automatisation des configurations
+
+### 🤖 **Automatisation**
+
+1. **Bot de Clic Automatisé**
+   - **Langages utilisés :** Python, C++
+   - **Fonctionnalités :**
+     - Automatisation des clics souris
+     - Programmation des séquences de clics
+
+2. **Automatisation des Achats en Ligne**
+   - **Langages utilisés :** Python, JavaScript
+   - **Fonctionnalités :**
+     - Remplissage automatique des formulaires
+     - Gestion des sessions d'achat
+
+3. **Téléchargement via API**
+   - **Langages utilisés :** Python, Bash
+   - **Fonctionnalités :**
+     - Gestion des requêtes API
+     - Automatisation des processus de téléchargement
+
+4. **Scraping Réseau avec BeautifulSoup**
+   - **Langages utilisés :** Python
+   - **Fonctionnalités :**
+     - Extraction de données web
+     - Analyse et stockage des informations
+
+5. **Transfert de Fichiers via SSH**
+   - **Langages utilisés :** Python, Bash
+   - **Fonctionnalités :**
+     - Transferts sécurisés de fichiers
+     - Scripts de gestion automatisée
+
+### 🌐 **Développement Web**
+
+1. **Projet Solitaire (Web)**
+   - **Langages utilisés :** JavaScript, HTML, CSS
+   - **Fonctionnalités :**
+     - Jeu de Solitaire en ligne
+     - Interface utilisateur interactive
+
+2. **Clonage de Sites Web pour Analyse**
+   - **Langages utilisés :** JavaScript, Python
+   - **Fonctionnalités :**
+     - Réplication de sites web existants
+     - Analyse des structures et des vulnérabilités
+
+3. **Interface Web pour Contrôler un Malware**
+   - **Langages utilisés :** JavaScript, Python
+   - **Fonctionnalités :**
+     - Tableau de bord de gestion
+     - Contrôle à distance via une interface web
+
+4. **Application de Phishing**
+   - **Langages utilisés :** JavaScript, Python
+   - **Fonctionnalités :**
+     - Interfaces de phishing personnalisées
+     - Collecte et stockage des informations sensibles
+
+5. **Application d'Écoute sur Port Spécifique**
+   - **Langages utilisés :** Python, JavaScript
+   - **Fonctionnalités :**
+     - Surveillance des ports réseau
+     - Enregistrement des données reçues
 
 ## 📈 Activité de Contribution
 
