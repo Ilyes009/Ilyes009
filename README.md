@@ -8,17 +8,19 @@ Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de
 
 ## 🛠️ Compétences & Technologies
 
-### Langages de programmation
+### 💻 Langages de programmation
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby">
+</div>
 
 ### Frameworks et Outils
 
@@ -163,61 +165,8 @@ Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de
      - Analyse automatisée des vulnérabilités
      - Intégration des systèmes de détection d'intrusion
 
-2. **VulnScanner Pro**
-   - **Langages utilisés :** Go, Python
-   - **Fonctionnalités :**
-     - Détection multi-couches
-     - Rapports détaillés
 
-3. **Intrusion Detector**
-   - **Langages utilisés :** C++, Python
-   - **Fonctionnalités :**
-     - Détection comportementale
-     - Alertes en temps réel
 
-4. **Outil d'Analyse Forensique**
-   - **Langages utilisés :** Python, C++
-   - **Fonctionnalités :**
-     - Analyse des traces système
-     - Récupération des données supprimées
-
-5. **Manipulation de DNS**
-   - **Langages utilisés :** Python, Go
-   - **Fonctionnalités :**
-     - Modification des enregistrements DNS
-     - Automatisation des configurations
-
-### 🤖 **Automatisation**
-
-1. **Bot de Clic Automatisé**
-   - **Langages utilisés :** Python, C++
-   - **Fonctionnalités :**
-     - Automatisation des clics souris
-     - Programmation des séquences de clics
-
-2. **Automatisation des Achats en Ligne**
-   - **Langages utilisés :** Python, JavaScript
-   - **Fonctionnalités :**
-     - Remplissage automatique des formulaires
-     - Gestion des sessions d'achat
-
-3. **Téléchargement via API**
-   - **Langages utilisés :** Python, Bash
-   - **Fonctionnalités :**
-     - Gestion des requêtes API
-     - Automatisation des processus de téléchargement
-
-4. **Scraping Réseau avec BeautifulSoup**
-   - **Langages utilisés :** Python
-   - **Fonctionnalités :**
-     - Extraction de données web
-     - Analyse et stockage des informations
-
-5. **Transfert de Fichiers via SSH**
-   - **Langages utilisés :** Python, Bash
-   - **Fonctionnalités :**
-     - Transferts sécurisés de fichiers
-     - Scripts de gestion automatisée
 
 ### 🌐 **Développement Web**
 
@@ -245,7 +194,7 @@ Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de
      - Interfaces de phishing personnalisées
      - Collecte et stockage des informations sensibles
 
-5. **Application d'Écoute sur Port Spécifique**
+5. **Application de log reseaux simple**
    - **Langages utilisés :** Python, JavaScript
    - **Fonctionnalités :**
      - Surveillance des ports réseau
@@ -260,18 +209,4 @@ Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de
 N'hésitez pas à me contacter via les plateformes ci-dessous :
 
 - **GitHub :** [Ilyes009](https://github.com/Ilyes009)
-- **Email :** [votre.email@example.com](mailto:votre.email@example.com)
-- **LinkedIn :** [Votre profil LinkedIn](https://www.linkedin.com/in/votreprofil/)
-- **Twitter :** [@Ilyes009](https://twitter.com/Ilyes009)
 
-## ⚡ Anecdotes
-
-- Je fais partie de l'équipe **Purple Team**, comblant le fossé entre les pratiques offensives et défensives en cybersécurité.
-- J'aime explorer en profondeur Linux, particulièrement les distributions Kali et Debian.
-- Passionné par la création d'outils qui améliorent à la fois les expériences de jeu et de cybersécurité.
-
----
-
-*Disclaimer : Le développement et l'utilisation de cheats et de programmes malveillants peuvent violer les conditions d'utilisation de nombreux jeux et plateformes, ainsi que des lois locales et internationales. Utilisez ces outils de manière responsable et éthique.*
-
----
