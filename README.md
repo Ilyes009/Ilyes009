@@ -26,7 +26,6 @@ Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de
 
 - **Frameworks :** Django, Flask, React, Node.js
 - **Outils de développement :** Git, Docker, Kubernetes, VS Code, PyCharm, IntelliJ IDEA
-- **Outils de cybersécurité :** Metasploit, Wireshark, Burp Suite, OWASP ZAP
 - **Outils d'automatisation :** Selenium, BeautifulSoup, Scapy
 
 ### Domaines d'expertise
