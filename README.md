@@ -204,6 +204,9 @@ Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de
 
 ![GitHub Contribution Activity](https://github-readme-stats.vercel.app/api?username=Ilyes009&show_icons=true&theme=radical)
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ilyes009&theme=react-dark)
+
+
 ## 📫 Me contacter
 
 N'hésitez pas à me contacter via les plateformes ci-dessous :
