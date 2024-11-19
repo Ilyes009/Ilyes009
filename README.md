@@ -126,25 +126,4 @@ Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de
 
 ## 📫 Me Contacter
 
-N'hésitez pas à me contacter via les plateformes ci-dessous :
-
-- **GitHub :** [Ilyes009](https://github.com/Ilyes009)
-- **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/ilyes009)
-- **Email :** [votre.email@example.com](mailto:votre.email@example.com)
-
----
-
-### 🔄 Mode Clair/Sombre et Réactivité
-
-Pour assurer que votre README est réactif et s'adapte aux préférences de couleur de l'utilisateur, vous pouvez utiliser le composant `<picture>` avec des media queries comme montré précédemment. Cela permet d'afficher différentes images ou animations selon que l'utilisateur utilise le mode clair ou sombre, ainsi que selon la taille de l'écran (desktop ou mobile).
-
-**Exemple Intégré :**
-
-```markdown
-### 🎨 Mode Clair/Sombre
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ilyes009/Ilyes009/blob/main/dark-mode-demo.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ilyes009/Ilyes009/blob/main/light-mode-demo.gif">
-  <img src="https://github.com/Ilyes009/Ilyes009/blob/main/default-demo.gif" alt="Demo Mode Clair/Sombre" style="width:100%;">
-</picture>
+N'hésitez pas à me contacter via les platefo
