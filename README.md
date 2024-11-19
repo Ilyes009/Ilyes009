@@ -1,33 +1,33 @@
-# Ilyes009 (Ilyes) 🛠️
+![Bannière GitHub](https://github.com/Ilyes009/github-header-image.png)
 
-![GitHub followers](https://img.shields.io/github/followers/Ilyes009?label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/Ilyes009?label=Stars)
-![GitHub Repo views](https://img.shields.io/github/views/Ilyes009?label=Views)
-![GitHub Top Language](https://img.shields.io/github/languages/top/Ilyes009?color=blue)
+# Ilyes009 (Ilyes) 🛠️
 
 ## 👋 À propos de moi
 
-Bonjour ! Je suis **Ilyes**, un développeur passionné de [votre localisation, si vous souhaitez l'ajouter]. Âgé de 17 ans, j'ai consacré plus de **2 500 heures** à la programmation et j'ai obtenu un **score de 5 735** sur [Root Me](https://www.root-me.org/), démontrant mes compétences en cybersécurité et en résolution de problèmes.
+Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de **2 500 heures** de codage et un **score de 5 735** sur [Root Me](https://www.root-me.org/). Je travaille principalement avec Linux (Kali, Debian) et fais partie de l'équipe **Purple Team**. Mon expertise s'étend au développement de cheats, de programmes malveillants et bien plus encore.
 
 ## 🛠️ Compétences & Technologies
 
 ### Langages de programmation
-- **Python**
-- **C++**
-- **JavaScript**
-- **Bash/Shell scripting**
-- **C#**
-- **Ruby**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 ### Outils de développement & Plateformes
+
 - **Systèmes d'exploitation :** Linux (Kali, Debian), Windows
 - **Contrôle de version :** Git, GitHub
 - **IDE :** Visual Studio Code, PyCharm, IntelliJ IDEA
 - **Outils de cybersécurité :** Metasploit, Wireshark, Burp Suite
 
 ### Domaines d'expertise
+
 - **Cybersécurité :** Opérations Purple Team, évaluation des vulnérabilités, tests de pénétration
-- **Développement logiciel :** Développement de cheats, scripts d'automatisation, développement d'applications
+- **Développement logiciel :** Développement de cheats, programmes malveillants, scripts d'automatisation, développement d'applications
 - **Réseautage :** Sécurité réseau, analyse de protocoles
 
 ## 🚀 Projets
@@ -37,12 +37,21 @@ Une suite de cheats développés pour divers jeux, améliorant l'expérience uti
 
 - **Langages utilisés :** C++, Python
 - **Fonctionnalités :**
-  - Fonctionnalités Aimbot et Wallhack
+  - Aimbot et Wallhack
   - Interface conviviale
   - Mises à jour et support réguliers
 
-### 2. **PurpleGuard**
-Un outil de cybersécurité conçu pour les Purple Teams afin de faciliter les opérations offensives et défensives.
+### 2. **MalwareMaster**
+Un programme malveillant conçu pour tester la résilience des systèmes face aux menaces actuelles.
+
+- **Langages utilisés :** Python, C#
+- **Fonctionnalités :**
+  - Injection de code
+  - Évasion des antivirus
+  - Analyse des vulnérabilités système
+
+### 3. **PurpleGuard**
+Un outil de cybersécurité destiné aux Purple Teams pour faciliter les opérations offensives et défensives.
 
 - **Langages utilisés :** Python, Bash
 - **Fonctionnalités :**
@@ -50,7 +59,7 @@ Un outil de cybersécurité conçu pour les Purple Teams afin de faciliter les o
   - Intégration des systèmes de détection d'intrusion
   - Outils de reporting complets
 
-### 3. **RootMe Helper**
+### 4. **RootMe Helper**
 Un outil d'automatisation pour aider à résoudre les défis sur Root Me, améliorant l'efficacité et l'apprentissage.
 
 - **Langages utilisés :** Python, JavaScript
@@ -59,7 +68,7 @@ Un outil d'automatisation pour aider à résoudre les défis sur Root Me, améli
   - Suivi et gestion des défis
   - Analyses de performance
 
-### 4. **BOOOH (Build Offensive and Defensive Operations Helper)**
+### 5. **BOOOH (Build Offensive and Defensive Operations Helper)**
 Un outil polyvalent visant à assister les professionnels de la cybersécurité dans les tâches offensives et défensives.
 
 - **Langages utilisés :** C#, Ruby
@@ -68,12 +77,9 @@ Un outil polyvalent visant à assister les professionnels de la cybersécurité 
   - Détection automatisée des menaces
   - Modules intégrés de tests de pénétration
 
-## 📈 Réalisations
+## 📈 Activité de Contribution
 
-- **5 735** points sur [Root Me](https://www.root-me.org/)
-- **2 500+ heures** d'expérience en programmation
-- Contributeur actif à divers projets open-source en cybersécurité
-- Développement et maintenance réussis de plusieurs outils de cheats avec une base d'utilisateurs solide
+![GitHub Contribution Activity](https://github-readme-stats.vercel.app/api?username=Ilyes009&show_icons=true&theme=radical)
 
 ## 📫 Me contacter
 
@@ -92,6 +98,6 @@ N'hésitez pas à me contacter via les plateformes ci-dessous :
 
 ---
 
-*Disclaimer : Le développement et l'utilisation de cheats peuvent violer les conditions d'utilisation de nombreux jeux et plateformes. Assurez-vous toujours d'avoir la permission d'utiliser de tels outils et comprenez les implications légales.*
+*Disclaimer : Le développement et l'utilisation de cheats et de programmes malveillants peuvent violer les conditions d'utilisation de nombreux jeux et plateformes, ainsi que des lois locales et internationales. Utilisez ces outils de manière responsable et éthique.*
 
 ---
