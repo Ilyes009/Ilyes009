@@ -4,7 +4,7 @@
 
 ## 👋 À propos de moi
 
-Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de **2 500 heures** de codage et un **score de 5 735** sur [Root Me](https://www.root-me.org/). Je travaille principalement avec Linux (Kali, Debian) et fais partie de l'équipe **Purple Team**. Mon expertise s'étend au développement de cheats, de programmes malveillants, d'outils de cybersécurité, d'automatisation, de gestion de systèmes et bien plus encore.
+Bonjour ! Je suis **Ilyes**, un développeur passionné de 17 ans avec plus de **2 500 heures** de codage et un **score de +1000* sur [Root Me](https://www.root-me.org/). Je travaille principalement avec Linux (Kali, Debian) et fais partie de l'équipe **Purple Team**. Mon expertise s'étend au développement de cheats, de programmes malveillants, d'outils de cybersécurité, d'automatisation, de gestion de systèmes et bien plus encore.
 
 ## 🛠️ Compétences & Technologies
 
