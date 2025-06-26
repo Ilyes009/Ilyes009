@@ -110,18 +110,22 @@
 <h3 align="center"><code>Mostly Work With :</code></h3>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/ruby-icon.svg" alt="Ruby" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="59" height="59"/>&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="K8s" width="59" height="59"/>
+  <!-- TechStack Generator (animés) -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg"        alt="JavaScript" width="59" height="59"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg"    alt="Python"     width="59" height="59"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg"    alt="Docker"     width="59" height="59"/>
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg"alt="K8s"        width="59" height="59"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg"     alt="MySQL"      width="59" height="59"/>
+
+  <!-- Devicon (logos manquants) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"        alt="Rust"  width="59" height="59"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"              alt="C"     width="59" height="59"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg"            alt="Go"    width="59" height="59"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"        alt="Bash"  width="59" height="59"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="59" height="59"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"    alt="C#"    width="59" height="59"/>
 </p>
+
 
 ---
 
